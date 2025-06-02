@@ -1,0 +1,13 @@
+
+# Build directory
+/build/
+
+
+# editor backup/temp files
+*~
+*.swp
+*.swo
+
+
+# VSCode settings
+.vscode/
