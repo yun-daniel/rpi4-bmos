@@ -1,3 +1,11 @@
+/*
+ * panic.c
+ * ---
+ * Panic Function
+ * ---
+ * Daniel Yun
+ */
+
 #include "common/panic.h"
 
 void panic(const char *fmt, ...) {

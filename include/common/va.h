@@ -1,4 +1,11 @@
-// va.h
+/*
+ * va.h
+ * ---
+ * Interface for Variadic Arguments
+ * ---
+ * Daniel Yun
+ */
+
 #ifndef __INTERNAL_VA_H__
 #define __INTERNAL_VA_H__
 

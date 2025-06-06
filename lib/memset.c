@@ -1,4 +1,11 @@
-// memset.c
+/*
+ * memset.c
+ * ---
+ * Memory Set Function
+ * ---
+ * Daniel Yun
+ */
+
 #include "common/string.h"
 
 void *memset(void *buf, char c, size_t n) {

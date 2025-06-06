@@ -1,4 +1,11 @@
-// pick.c
+/*
+ * rr.c
+ * ---
+ * Round-Robin Scheduler
+ * ---
+ * Daniel Yun
+ */
+
 #include "kernel/sched.h"
 
 

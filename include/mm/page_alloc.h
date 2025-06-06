@@ -1,4 +1,11 @@
-// page_alloc.h
+/*
+ * page_alloc.h
+ * ---
+ * Interface for Page Allocator
+ * ---
+ * Daniel Yun
+ */
+
 #ifndef __PAGE_ALLOC_H__
 #define __PAGE_ALLOC_H__
 

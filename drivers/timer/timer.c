@@ -1,3 +1,11 @@
+/*
+ * timer.c
+ * ---
+ * ARM Generic Timer Functions
+ * ---
+ * Daniel Yun
+ */
+
 #include "drivers/timer/timer.h"
 #include "common/types.h"
 #include "kernel/printk/printk.h"

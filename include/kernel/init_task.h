@@ -1,3 +1,11 @@
+/*
+ * init_task.h
+ * ---
+ * Static Initial Task
+ * ---
+ * Daniel Yun
+ */
+
 #ifndef __INIT_TASK_H__
 #define __INIT_TASK_H__
 

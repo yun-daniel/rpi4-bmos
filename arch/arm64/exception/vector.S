@@ -1,4 +1,10 @@
-// vector.S
+/*
+ * vector.S
+ * ---
+ * AArch64 Vector Table
+ * ---
+ * Daniel Yun
+ */
 
 .section .text
 .global vector_table

@@ -1,4 +1,11 @@
-// gic.h
+/*
+ * gic.h
+ * ---
+ * Interface for GIC
+ * ---
+ * Daniel Yun
+ */
+
 #ifndef __GIC_H__
 #define __GIC_H__
 

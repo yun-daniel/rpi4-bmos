@@ -1,3 +1,11 @@
+/*
+ * exception.c
+ * ---
+ * Exception Handler
+ * ---
+ * Daniel Yun
+ */
+
 #include "common/types.h"
 #include "common/regs.h"
 #include "common/panic.h"
@@ -62,7 +70,7 @@ void handle_irq(struct pt_regs *regs) {
     switch(irq) {
         case 30:
             timer_handler();
-            schedule();
+//            schedule();
             break;
         default:
             panic("Unknown IRQ: %d", irq);

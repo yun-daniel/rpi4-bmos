@@ -1,4 +1,11 @@
-// gic.c
+/*
+ * gic.c
+ * ---
+ * GIC-400 irq
+ * ---
+ * Daniel Yun
+ */
+
 #include "drivers/irq/gic.h"
 
 

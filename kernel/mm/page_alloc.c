@@ -1,4 +1,11 @@
-// page_alloc.c
+/*
+ * page_alloc.c
+ * ---
+ * Page Allocator
+ * ---
+ * Daniel Yun
+ */
+
 #include "mm/page_alloc.h"
 
 extern char __free_ram[], __free_ram_end[];

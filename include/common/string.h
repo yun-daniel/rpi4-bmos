@@ -1,4 +1,11 @@
-// string.h
+/*
+ * string.h
+ * ---
+ * Interface for memory set
+ * ---
+ * Daniel Yun
+ */
+
 #ifndef __STRING_H__
 #define __STRING_H__
 

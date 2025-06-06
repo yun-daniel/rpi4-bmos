@@ -1,4 +1,11 @@
-/* linker.ld */
+/*
+ * linker.ld
+ * ---
+ * Linker Script for rpi4-bmos
+ * ---
+ * Daniel Yun
+ */
+
 ENTRY(_start)
 
 

@@ -1,4 +1,11 @@
-// context.S
+/*
+ * context.S
+ * ---
+ * Context Switching Function
+ * ---
+ * Daniel Yun
+ */
+
 .global switch_to
 
 

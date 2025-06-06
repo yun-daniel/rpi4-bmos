@@ -1,4 +1,11 @@
-// main.c
+/*
+ * main.c
+ * ---
+ * Initial Kernel
+ * ---
+ * Daniel Yun
+ */
+
 #include "drivers/uart/uart.h"
 #include "kernel/printk/printk.h"
 #include "common/panic.h"

@@ -1,4 +1,11 @@
-// console_putc.c
+/*
+ * console_putc.c
+ * ---
+ * Console Layer
+ * ---
+ * Daniel Yun
+ */
+
 #include "drivers/uart/uart.h"
 
 void console_putc(char c) {

@@ -1,4 +1,11 @@
-// uart.h
+/*
+ * uart.h
+ * ---
+ * Interface for UART
+ * ---
+ * Daniel Yun
+ */
+
 #ifndef __UART_H__
 #define __UART_H__
 
