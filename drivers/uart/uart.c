@@ -1,4 +1,11 @@
-// uart.c
+/*
+ * uart.c
+ * ---
+ * UART Functions
+ * ---
+ * Daniel Yun
+ */
+
 #include "uart.h"
 
 

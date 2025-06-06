@@ -1,4 +1,11 @@
-// test_task.c
+/*
+ * test_task.c
+ * ---
+ * Test Case for Task and Scheduler
+ * ---
+ * Daniel Yun
+ */
+
 #include "kernel/sched.h"
 #include "kernel/printk/printk.h"
 
@@ -9,7 +16,7 @@ void task_entry_A(void) {
     while (1) {
         kprintf("A");
         for (int i=0; i<100000; i++);
-//        yield();
+        yield();
     }
 }
 
@@ -18,7 +25,7 @@ void task_entry_B(void) {
     while (1) {
         kprintf("B");
         for (int i=0; i<100000; i++);
-//        yield();
+        yield();
     }
 }
 

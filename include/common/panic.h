@@ -1,4 +1,11 @@
-// panic.h
+/*
+ * panic.h
+ * ---
+ * Interface for panic handler
+ * ---
+ * Daniel Yun
+ */
+
 #ifndef __PANIC_H__
 #define __PANIC_H__
 

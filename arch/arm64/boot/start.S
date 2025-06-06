@@ -1,4 +1,11 @@
-// start.S
+/*
+ * start.S
+ * ---
+ * Kernel Entry Point
+ * ---
+ * Daniel Yun
+ */
+
 .section .text._start
 .global _start
 

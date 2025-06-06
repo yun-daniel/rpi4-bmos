@@ -1,4 +1,11 @@
-// idle.c
+/*
+ * idle.c
+ * ---
+ * IDLE Task Entry
+ * ---
+ * Daniel Yun
+ */
+
 #include "kernel/sched.h"
 #include "kernel/printk/printk.h"
 

@@ -1,4 +1,11 @@
-// sched.h
+/*
+ * sched.h
+ * ---
+ * Task and Scheduler Interface
+ * ---
+ * Daniel Yun
+ */
+
 #ifndef __KERNEL_SCHED_H__
 #define __KERNEL_SCHED_H__
 

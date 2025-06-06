@@ -1,4 +1,10 @@
-// test_vector_table.c
+/*
+ * test_vector_table.c
+ * ---
+ * Test Case for Exception
+ * ---
+ * Daniel Yun
+ */
 
 void test_vector_table(void) {
     __asm__ __volatile__("brk #0");

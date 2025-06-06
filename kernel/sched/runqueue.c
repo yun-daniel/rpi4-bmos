@@ -1,4 +1,11 @@
-// runqueue.c
+/*
+ * runqueue.c
+ * ---
+ * Scheduler Runqueue Management
+ * ---
+ * Daniel Yun
+ */
+
 #include "kernel/sched.h"
 
 

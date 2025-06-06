@@ -1,4 +1,11 @@
-// regs.h
+/*
+ * regs.h
+ * ---
+ * Trap Frame
+ * ---
+ * Daniel Yun
+ */
+
 #ifndef __REGS_H__
 #define __REGS_H__
 

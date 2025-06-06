@@ -1,4 +1,11 @@
-// printk.h
+/*
+ * printk.h
+ * ---
+ * Interface for Kernel Print Functions
+ * ---
+ * Daniel Yun
+ */
+
 #ifndef __PRINTK_H__
 #define __PRINTK_H__
 

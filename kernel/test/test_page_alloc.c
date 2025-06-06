@@ -1,4 +1,11 @@
-// test_page_alloc.c
+/*
+ * test_page_alloc.c
+ * ---
+ * Test Case for Page Allocator
+ * ---
+ * Daniel Yun
+ */
+
 #include "mm/page_alloc.h"
 #include "kernel/printk/printk.h"
 

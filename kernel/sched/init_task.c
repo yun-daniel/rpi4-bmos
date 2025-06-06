@@ -1,4 +1,11 @@
-// init_task.c
+/*
+ * init_task.c
+ * ---
+ * Define Static Initial Task
+ * ---
+ * Daniel Yun
+ */
+
 #include "kernel/init_task.h"
 
 __attribute__((section(".bss.init_task"), aligned(TASK_STACK_SIZE)))

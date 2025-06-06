@@ -1,6 +1,12 @@
-// sched.c
+/*
+ * core.c
+ * ---
+ * Task and Scheduler Core
+ * ---
+ * Daniel Yun
+ */
+
 #include "kernel/sched.h"
-//#include "mm/page_alloc.h"
 #include "common/panic.h"
 #include "kernel/printk/printk.h"
 

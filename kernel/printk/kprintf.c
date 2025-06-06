@@ -1,3 +1,11 @@
+/*
+ * kprintf.c
+ * ---
+ * Kernel Print Function
+ * ---
+ * Daniel Yun
+ */
+
 #include "kernel/printk/printk.h"
 
 
